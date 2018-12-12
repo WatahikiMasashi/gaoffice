@@ -25,14 +25,19 @@ Ruby 2.5.0 Rails 5.1.6.1
 * 複合条件による検索
 
 ## テーブル定義
-[テーブル定義]("https://drive.google.com/file/d/1ugYQreoPxikoG9Wntbq_hhUFK5CNSacO/view?usp=sharing")
+[テーブル定義](https://drive.google.com/file/d/1ugYQreoPxikoG9Wntbq_hhUFK5CNSacO/view?usp=sharing)
 ## 画面遷移図
-[画面遷移図]("https://drive.google.com/file/d/1Va7kJj3CzYCdJy2yuAoUcyrs5o3h4WYV/view?usp=sharing")
+[画面遷移図](https://drive.google.com/file/d/1Va7kJj3CzYCdJy2yuAoUcyrs5o3h4WYV/view?usp=sharing)
 ## 画面ワイヤーフレーム
-[画面ワイヤーフレーム]("https://drive.google.com/file/d/17n6sLtHq4JUayvfGzdLacNis-2P3jGQP/view?usp=sharing")
+[画面ワイヤーフレーム](https://drive.google.com/file/d/17n6sLtHq4JUayvfGzdLacNis-2P3jGQP/view?usp=sharing)
 ## 使用予定Gem
-carrierwave
-mini_magick
-devise
-omniauth
-omniauth-facebook
+
+* carrierwave
+
+* mini_magick
+
+* devise
+
+* omniauth
+
+* omniauth-facebook
