@@ -24,6 +24,8 @@ Ruby 2.5.0 Rails 5.1.6.1
 
 * 複合条件による検索
 
+## カタログ設計
+[カタログ設計](https://docs.google.com/spreadsheets/d/1dZ53klWqkfFIy17GQnSBH_FqbOZ-3TAmi4KtVMLkWO4/edit)
 ## テーブル定義
 [テーブル定義](https://drive.google.com/file/d/1ugYQreoPxikoG9Wntbq_hhUFK5CNSacO/view?usp=sharing)
 ## 画面遷移図
