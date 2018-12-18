@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  office: one
+  user: 
+  exec: MyString
+  rake: MyString
+  db: 
+
+two:
+  office: two
+  user: 
+  exec: MyString
+  rake: MyString
+  db: 

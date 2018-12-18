@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyText
+  area: 1.5
+  addres: MyString
+  count_people: 1
+  use: MyString
+  shi_deposit: 1.5
+  rei_deposit: 1.5
+  rent_fee: 1.5
+  office_name: MyString
+  floor: 1
+  construction: MyString
+  function: MyString
+  years: 1
+
+two:
+  image: MyText
+  area: 1.5
+  addres: MyString
+  count_people: 1
+  use: MyString
+  shi_deposit: 1.5
+  rei_deposit: 1.5
+  rent_fee: 1.5
+  office_name: MyString
+  floor: 1
+  construction: MyString
+  function: MyString
+  years: 1
